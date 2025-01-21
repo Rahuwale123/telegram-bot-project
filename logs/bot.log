@@ -1,0 +1,654 @@
+2025-01-22 00:24:04,887 - __main__ - INFO - Bot started successfully!
+2025-01-22 00:24:04,888 - __main__ - INFO - Monitoring main channel: -1001829128097
+2025-01-22 00:24:04,889 - __main__ - INFO - Replicating to 8 target channels
+2025-01-22 00:24:05,369 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8008634632:AAGcAf45-1KhsJtHSL8FOOGQUlf00UOEtCs/getMe "HTTP/1.1 200 OK"
+2025-01-22 00:24:05,371 - telegram.ext.Application - INFO - Application started
+2025-01-22 00:24:05,371 - __main__ - ERROR - Fatal error: Cannot close a running event loop
+2025-01-22 00:24:05,372 - __main__ - INFO - Shutting down bot...
+2025-01-22 00:24:05,372 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2025-01-22 00:24:05,373 - telegram.ext.Application - INFO - Application.stop() complete
+2025-01-22 00:25:21,346 - __main__ - INFO - Bot started successfully!
+2025-01-22 00:25:21,346 - __main__ - INFO - Monitoring main channel: -1001829128097
+2025-01-22 00:25:21,347 - __main__ - INFO - Replicating to 8 target channels
+2025-01-22 00:25:21,847 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8008634632:AAGcAf45-1KhsJtHSL8FOOGQUlf00UOEtCs/getMe "HTTP/1.1 200 OK"
+2025-01-22 00:25:21,851 - telegram.ext.Application - INFO - Application started
+2025-01-22 00:25:21,852 - __main__ - ERROR - Error occurred: This event loop is already running
+2025-01-22 00:25:21,853 - __main__ - INFO - Restarting bot in 10 seconds...
+2025-01-22 00:25:31,996 - __main__ - INFO - Bot started successfully!
+2025-01-22 00:25:32,032 - __main__ - INFO - Monitoring main channel: -1001829128097
+2025-01-22 00:25:32,068 - __main__ - INFO - Replicating to 8 target channels
+2025-01-22 00:25:32,538 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8008634632:AAGcAf45-1KhsJtHSL8FOOGQUlf00UOEtCs/getMe "HTTP/1.1 200 OK"
+2025-01-22 00:25:32,546 - telegram.ext.Application - INFO - Application started
+2025-01-22 00:25:32,551 - __main__ - ERROR - Error occurred: This event loop is already running
+2025-01-22 00:25:32,555 - __main__ - INFO - Restarting bot in 10 seconds...
+2025-01-22 00:25:42,607 - __main__ - INFO - Bot started successfully!
+2025-01-22 00:25:42,608 - __main__ - INFO - Monitoring main channel: -1001829128097
+2025-01-22 00:25:42,608 - __main__ - INFO - Replicating to 8 target channels
+2025-01-22 00:25:42,763 - asyncio - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Application:8008634632:update_fetcher' coro=<Application._update_fetcher() done, defined at C:\Users\Rahul\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_application.py:1246> wait_for=<Future cancelled>>
+2025-01-22 00:25:43,069 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8008634632:AAGcAf45-1KhsJtHSL8FOOGQUlf00UOEtCs/getMe "HTTP/1.1 200 OK"
+2025-01-22 00:25:43,070 - telegram.ext.Application - INFO - Application started
+2025-01-22 00:25:43,071 - __main__ - ERROR - Error occurred: This event loop is already running
+2025-01-22 00:25:43,071 - __main__ - INFO - Restarting bot in 10 seconds...
+2025-01-22 00:25:51,514 - __main__ - INFO - Shutting down bot...
+2025-01-22 00:25:51,516 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2025-01-22 00:25:51,518 - telegram.ext.Application - INFO - Application.stop() complete
+2025-01-22 00:25:53,155 - __main__ - INFO - Bot started successfully!
+2025-01-22 00:25:53,156 - __main__ - INFO - Monitoring main channel: -1001829128097
+2025-01-22 00:25:53,157 - __main__ - INFO - Replicating to 8 target channels
+2025-01-22 00:25:53,647 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8008634632:AAGcAf45-1KhsJtHSL8FOOGQUlf00UOEtCs/getMe "HTTP/1.1 200 OK"
+2025-01-22 00:25:53,649 - telegram.ext.Application - INFO - Application started
+2025-01-22 00:25:53,650 - __main__ - ERROR - Error occurred: This event loop is already running
+2025-01-22 00:25:53,651 - __main__ - INFO - Restarting bot in 10 seconds...
+2025-01-22 00:26:27,086 - __main__ - INFO - Bot started successfully!
+2025-01-22 00:26:27,087 - __main__ - INFO - Monitoring main channel: -1001829128097
+2025-01-22 00:26:27,087 - __main__ - INFO - Replicating to 8 target channels
+2025-01-22 00:26:27,574 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8008634632:AAGcAf45-1KhsJtHSL8FOOGQUlf00UOEtCs/getMe "HTTP/1.1 200 OK"
+2025-01-22 00:26:27,578 - telegram.ext.Application - INFO - Application started
+2025-01-22 00:26:27,622 - __main__ - ERROR - Error occurred: Cannot close a running event loop
+2025-01-22 00:26:27,622 - __main__ - INFO - Shutting down bot...
+2025-01-22 00:26:27,622 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2025-01-22 00:26:27,623 - telegram.ext.Application - INFO - Application.stop() complete
+2025-01-22 00:26:27,625 - __main__ - ERROR - Bot crashed: Cannot close a running event loop
+2025-01-22 00:26:27,625 - __main__ - INFO - Restarting bot in 10 seconds...
+2025-01-22 00:26:27,626 - __main__ - INFO - Shutting down bot...
+2025-01-22 00:26:27,627 - __main__ - ERROR - Error during shutdown: This Application is not running!
+2025-01-22 00:26:27,689 - __main__ - INFO - Bot started successfully!
+2025-01-22 00:26:27,690 - __main__ - INFO - Monitoring main channel: -1001829128097
+2025-01-22 00:26:27,691 - __main__ - INFO - Replicating to 8 target channels
+2025-01-22 00:26:28,152 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8008634632:AAGcAf45-1KhsJtHSL8FOOGQUlf00UOEtCs/getMe "HTTP/1.1 200 OK"
+2025-01-22 00:26:28,159 - telegram.ext.Application - INFO - Application started
+2025-01-22 00:26:28,161 - __main__ - ERROR - Error occurred: Cannot close a running event loop
+2025-01-22 00:26:28,165 - __main__ - INFO - Shutting down bot...
+2025-01-22 00:26:28,166 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2025-01-22 00:26:28,168 - telegram.ext.Application - INFO - Application.stop() complete
+2025-01-22 00:26:28,171 - __main__ - ERROR - Bot crashed: Cannot close a running event loop
+2025-01-22 00:26:28,173 - __main__ - INFO - Restarting bot in 10 seconds...
+2025-01-22 00:26:28,174 - __main__ - INFO - Shutting down bot...
+2025-01-22 00:26:28,175 - __main__ - ERROR - Error during shutdown: This Application is not running!
+2025-01-22 00:26:28,224 - __main__ - INFO - Bot started successfully!
+2025-01-22 00:26:28,225 - __main__ - INFO - Monitoring main channel: -1001829128097
+2025-01-22 00:26:28,226 - __main__ - INFO - Replicating to 8 target channels
+2025-01-22 00:26:28,691 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8008634632:AAGcAf45-1KhsJtHSL8FOOGQUlf00UOEtCs/getMe "HTTP/1.1 200 OK"
+2025-01-22 00:26:28,694 - telegram.ext.Application - INFO - Application started
+2025-01-22 00:26:28,695 - __main__ - ERROR - Error occurred: Cannot close a running event loop
+2025-01-22 00:26:28,697 - __main__ - INFO - Shutting down bot...
+2025-01-22 00:26:28,698 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2025-01-22 00:26:28,699 - telegram.ext.Application - INFO - Application.stop() complete
+2025-01-22 00:26:28,702 - __main__ - ERROR - Bot crashed: Cannot close a running event loop
+2025-01-22 00:26:28,703 - __main__ - INFO - Restarting bot in 10 seconds...
+2025-01-22 00:26:28,704 - __main__ - INFO - Shutting down bot...
+2025-01-22 00:26:28,704 - __main__ - ERROR - Error during shutdown: This Application is not running!
+2025-01-22 00:26:28,757 - __main__ - INFO - Bot started successfully!
+2025-01-22 00:26:28,758 - __main__ - INFO - Monitoring main channel: -1001829128097
+2025-01-22 00:26:28,759 - __main__ - INFO - Replicating to 8 target channels
+2025-01-22 00:26:29,210 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8008634632:AAGcAf45-1KhsJtHSL8FOOGQUlf00UOEtCs/getMe "HTTP/1.1 200 OK"
+2025-01-22 00:26:29,216 - telegram.ext.Application - INFO - Application started
+2025-01-22 00:26:29,219 - __main__ - ERROR - Error occurred: Cannot close a running event loop
+2025-01-22 00:26:29,222 - __main__ - INFO - Shutting down bot...
+2025-01-22 00:26:29,224 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2025-01-22 00:26:29,226 - telegram.ext.Application - INFO - Application.stop() complete
+2025-01-22 00:26:29,229 - __main__ - ERROR - Bot crashed: Cannot close a running event loop
+2025-01-22 00:26:29,230 - __main__ - INFO - Restarting bot in 10 seconds...
+2025-01-22 00:26:29,231 - __main__ - INFO - Shutting down bot...
+2025-01-22 00:26:29,233 - __main__ - ERROR - Error during shutdown: This Application is not running!
+2025-01-22 00:26:29,285 - __main__ - INFO - Bot started successfully!
+2025-01-22 00:26:29,286 - __main__ - INFO - Monitoring main channel: -1001829128097
+2025-01-22 00:26:29,286 - __main__ - INFO - Replicating to 8 target channels
+2025-01-22 00:26:29,743 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8008634632:AAGcAf45-1KhsJtHSL8FOOGQUlf00UOEtCs/getMe "HTTP/1.1 200 OK"
+2025-01-22 00:26:29,748 - telegram.ext.Application - INFO - Application started
+2025-01-22 00:26:29,750 - __main__ - ERROR - Error occurred: Cannot close a running event loop
+2025-01-22 00:26:29,753 - __main__ - INFO - Shutting down bot...
+2025-01-22 00:26:29,755 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2025-01-22 00:26:29,758 - telegram.ext.Application - INFO - Application.stop() complete
+2025-01-22 00:26:29,763 - __main__ - ERROR - Bot crashed: Cannot close a running event loop
+2025-01-22 00:26:29,765 - __main__ - INFO - Restarting bot in 10 seconds...
+2025-01-22 00:26:29,767 - __main__ - INFO - Shutting down bot...
+2025-01-22 00:26:29,768 - __main__ - ERROR - Error during shutdown: This Application is not running!
+2025-01-22 00:26:29,821 - __main__ - INFO - Bot started successfully!
+2025-01-22 00:26:29,822 - __main__ - INFO - Monitoring main channel: -1001829128097
+2025-01-22 00:26:29,823 - __main__ - INFO - Replicating to 8 target channels
+2025-01-22 00:26:30,278 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8008634632:AAGcAf45-1KhsJtHSL8FOOGQUlf00UOEtCs/getMe "HTTP/1.1 200 OK"
+2025-01-22 00:26:30,284 - telegram.ext.Application - INFO - Application started
+2025-01-22 00:26:30,287 - __main__ - ERROR - Error occurred: Cannot close a running event loop
+2025-01-22 00:26:30,290 - __main__ - INFO - Shutting down bot...
+2025-01-22 00:26:30,292 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2025-01-22 00:26:30,295 - telegram.ext.Application - INFO - Application.stop() complete
+2025-01-22 00:26:30,301 - __main__ - ERROR - Bot crashed: Cannot close a running event loop
+2025-01-22 00:26:30,304 - __main__ - INFO - Restarting bot in 10 seconds...
+2025-01-22 00:26:30,307 - __main__ - INFO - Shutting down bot...
+2025-01-22 00:26:30,309 - __main__ - ERROR - Error during shutdown: This Application is not running!
+2025-01-22 00:26:30,382 - __main__ - INFO - Bot started successfully!
+2025-01-22 00:26:30,383 - __main__ - INFO - Monitoring main channel: -1001829128097
+2025-01-22 00:26:30,384 - __main__ - INFO - Replicating to 8 target channels
+2025-01-22 00:26:30,877 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8008634632:AAGcAf45-1KhsJtHSL8FOOGQUlf00UOEtCs/getMe "HTTP/1.1 200 OK"
+2025-01-22 00:26:30,879 - telegram.ext.Application - INFO - Application started
+2025-01-22 00:26:30,880 - __main__ - ERROR - Error occurred: Cannot close a running event loop
+2025-01-22 00:26:30,881 - __main__ - INFO - Shutting down bot...
+2025-01-22 00:26:30,881 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2025-01-22 00:26:30,882 - telegram.ext.Application - INFO - Application.stop() complete
+2025-01-22 00:26:30,884 - __main__ - ERROR - Bot crashed: Cannot close a running event loop
+2025-01-22 00:26:30,885 - __main__ - INFO - Restarting bot in 10 seconds...
+2025-01-22 00:26:30,886 - __main__ - INFO - Shutting down bot...
+2025-01-22 00:26:30,886 - __main__ - ERROR - Error during shutdown: This Application is not running!
+2025-01-22 00:26:31,012 - __main__ - INFO - Bot started successfully!
+2025-01-22 00:26:31,013 - __main__ - INFO - Monitoring main channel: -1001829128097
+2025-01-22 00:26:31,014 - __main__ - INFO - Replicating to 8 target channels
+2025-01-22 00:26:31,485 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8008634632:AAGcAf45-1KhsJtHSL8FOOGQUlf00UOEtCs/getMe "HTTP/1.1 200 OK"
+2025-01-22 00:26:31,490 - telegram.ext.Application - INFO - Application started
+2025-01-22 00:26:31,493 - __main__ - ERROR - Error occurred: Cannot close a running event loop
+2025-01-22 00:26:31,496 - __main__ - INFO - Shutting down bot...
+2025-01-22 00:26:31,498 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2025-01-22 00:26:31,501 - telegram.ext.Application - INFO - Application.stop() complete
+2025-01-22 00:26:31,505 - __main__ - ERROR - Bot crashed: Cannot close a running event loop
+2025-01-22 00:26:31,507 - __main__ - INFO - Restarting bot in 10 seconds...
+2025-01-22 00:26:31,508 - __main__ - INFO - Shutting down bot...
+2025-01-22 00:26:31,509 - __main__ - ERROR - Error during shutdown: This Application is not running!
+2025-01-22 00:26:31,559 - __main__ - INFO - Bot started successfully!
+2025-01-22 00:26:31,561 - __main__ - INFO - Monitoring main channel: -1001829128097
+2025-01-22 00:26:31,561 - __main__ - INFO - Replicating to 8 target channels
+2025-01-22 00:26:32,030 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8008634632:AAGcAf45-1KhsJtHSL8FOOGQUlf00UOEtCs/getMe "HTTP/1.1 200 OK"
+2025-01-22 00:26:32,032 - telegram.ext.Application - INFO - Application started
+2025-01-22 00:26:32,033 - __main__ - ERROR - Error occurred: Cannot close a running event loop
+2025-01-22 00:26:32,034 - __main__ - INFO - Shutting down bot...
+2025-01-22 00:26:32,034 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2025-01-22 00:26:32,035 - telegram.ext.Application - INFO - Application.stop() complete
+2025-01-22 00:26:32,037 - __main__ - ERROR - Bot crashed: Cannot close a running event loop
+2025-01-22 00:26:32,037 - __main__ - INFO - Restarting bot in 10 seconds...
+2025-01-22 00:26:32,038 - __main__ - INFO - Shutting down bot...
+2025-01-22 00:26:32,039 - __main__ - ERROR - Error during shutdown: This Application is not running!
+2025-01-22 00:26:32,088 - __main__ - INFO - Bot started successfully!
+2025-01-22 00:26:32,088 - __main__ - INFO - Monitoring main channel: -1001829128097
+2025-01-22 00:26:32,089 - __main__ - INFO - Replicating to 8 target channels
+2025-01-22 00:26:32,597 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8008634632:AAGcAf45-1KhsJtHSL8FOOGQUlf00UOEtCs/getMe "HTTP/1.1 200 OK"
+2025-01-22 00:26:32,599 - telegram.ext.Application - INFO - Application started
+2025-01-22 00:26:32,601 - __main__ - ERROR - Error occurred: Cannot close a running event loop
+2025-01-22 00:26:32,602 - __main__ - INFO - Shutting down bot...
+2025-01-22 00:26:32,602 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2025-01-22 00:26:32,603 - telegram.ext.Application - INFO - Application.stop() complete
+2025-01-22 00:26:32,605 - __main__ - ERROR - Bot crashed: Cannot close a running event loop
+2025-01-22 00:26:32,606 - __main__ - INFO - Restarting bot in 10 seconds...
+2025-01-22 00:26:32,607 - __main__ - INFO - Shutting down bot...
+2025-01-22 00:26:32,607 - __main__ - ERROR - Error during shutdown: This Application is not running!
+2025-01-22 00:26:32,650 - __main__ - INFO - Bot started successfully!
+2025-01-22 00:26:32,651 - __main__ - INFO - Monitoring main channel: -1001829128097
+2025-01-22 00:26:32,652 - __main__ - INFO - Replicating to 8 target channels
+2025-01-22 00:26:33,129 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8008634632:AAGcAf45-1KhsJtHSL8FOOGQUlf00UOEtCs/getMe "HTTP/1.1 200 OK"
+2025-01-22 00:26:33,133 - telegram.ext.Application - INFO - Application started
+2025-01-22 00:26:33,134 - __main__ - ERROR - Error occurred: Cannot close a running event loop
+2025-01-22 00:26:33,135 - __main__ - INFO - Shutting down bot...
+2025-01-22 00:26:33,137 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2025-01-22 00:26:33,139 - telegram.ext.Application - INFO - Application.stop() complete
+2025-01-22 00:26:33,141 - __main__ - ERROR - Bot crashed: Cannot close a running event loop
+2025-01-22 00:26:33,142 - __main__ - INFO - Restarting bot in 10 seconds...
+2025-01-22 00:26:33,143 - __main__ - INFO - Shutting down bot...
+2025-01-22 00:26:33,144 - __main__ - ERROR - Error during shutdown: This Application is not running!
+2025-01-22 00:26:33,192 - __main__ - INFO - Bot started successfully!
+2025-01-22 00:26:33,193 - __main__ - INFO - Monitoring main channel: -1001829128097
+2025-01-22 00:26:33,194 - __main__ - INFO - Replicating to 8 target channels
+2025-01-22 00:26:33,656 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8008634632:AAGcAf45-1KhsJtHSL8FOOGQUlf00UOEtCs/getMe "HTTP/1.1 200 OK"
+2025-01-22 00:26:33,703 - telegram.ext.Application - INFO - Application started
+2025-01-22 00:26:33,703 - __main__ - ERROR - Error occurred: Cannot close a running event loop
+2025-01-22 00:26:33,704 - __main__ - INFO - Shutting down bot...
+2025-01-22 00:26:33,704 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2025-01-22 00:26:33,705 - telegram.ext.Application - INFO - Application.stop() complete
+2025-01-22 00:26:33,706 - __main__ - ERROR - Bot crashed: Cannot close a running event loop
+2025-01-22 00:26:33,707 - __main__ - INFO - Restarting bot in 10 seconds...
+2025-01-22 00:26:33,708 - __main__ - INFO - Shutting down bot...
+2025-01-22 00:26:33,708 - __main__ - ERROR - Error during shutdown: This Application is not running!
+2025-01-22 00:26:33,748 - __main__ - INFO - Bot started successfully!
+2025-01-22 00:26:33,749 - __main__ - INFO - Monitoring main channel: -1001829128097
+2025-01-22 00:26:33,750 - __main__ - INFO - Replicating to 8 target channels
+2025-01-22 00:26:34,234 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8008634632:AAGcAf45-1KhsJtHSL8FOOGQUlf00UOEtCs/getMe "HTTP/1.1 200 OK"
+2025-01-22 00:26:34,240 - telegram.ext.Application - INFO - Application started
+2025-01-22 00:26:34,243 - __main__ - ERROR - Error occurred: Cannot close a running event loop
+2025-01-22 00:26:34,246 - __main__ - INFO - Shutting down bot...
+2025-01-22 00:26:34,247 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2025-01-22 00:26:34,249 - telegram.ext.Application - INFO - Application.stop() complete
+2025-01-22 00:26:34,251 - __main__ - ERROR - Bot crashed: Cannot close a running event loop
+2025-01-22 00:26:34,253 - __main__ - INFO - Restarting bot in 10 seconds...
+2025-01-22 00:26:34,254 - __main__ - INFO - Shutting down bot...
+2025-01-22 00:26:34,255 - __main__ - ERROR - Error during shutdown: This Application is not running!
+2025-01-22 00:26:34,304 - __main__ - INFO - Bot started successfully!
+2025-01-22 00:26:34,305 - __main__ - INFO - Monitoring main channel: -1001829128097
+2025-01-22 00:26:34,306 - __main__ - INFO - Replicating to 8 target channels
+2025-01-22 00:26:34,761 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8008634632:AAGcAf45-1KhsJtHSL8FOOGQUlf00UOEtCs/getMe "HTTP/1.1 200 OK"
+2025-01-22 00:26:34,768 - telegram.ext.Application - INFO - Application started
+2025-01-22 00:26:34,770 - __main__ - ERROR - Error occurred: Cannot close a running event loop
+2025-01-22 00:26:34,773 - __main__ - INFO - Shutting down bot...
+2025-01-22 00:26:34,774 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2025-01-22 00:26:34,776 - telegram.ext.Application - INFO - Application.stop() complete
+2025-01-22 00:26:34,779 - __main__ - ERROR - Bot crashed: Cannot close a running event loop
+2025-01-22 00:26:34,780 - __main__ - INFO - Restarting bot in 10 seconds...
+2025-01-22 00:26:34,781 - __main__ - INFO - Shutting down bot...
+2025-01-22 00:26:34,782 - __main__ - ERROR - Error during shutdown: This Application is not running!
+2025-01-22 00:26:34,873 - __main__ - INFO - Bot started successfully!
+2025-01-22 00:26:34,873 - __main__ - INFO - Monitoring main channel: -1001829128097
+2025-01-22 00:26:34,874 - __main__ - INFO - Replicating to 8 target channels
+2025-01-22 00:26:35,366 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8008634632:AAGcAf45-1KhsJtHSL8FOOGQUlf00UOEtCs/getMe "HTTP/1.1 200 OK"
+2025-01-22 00:26:35,372 - telegram.ext.Application - INFO - Application started
+2025-01-22 00:26:35,374 - __main__ - ERROR - Error occurred: Cannot close a running event loop
+2025-01-22 00:26:35,376 - __main__ - INFO - Shutting down bot...
+2025-01-22 00:26:35,378 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2025-01-22 00:26:35,380 - telegram.ext.Application - INFO - Application.stop() complete
+2025-01-22 00:26:35,385 - __main__ - ERROR - Bot crashed: Cannot close a running event loop
+2025-01-22 00:26:35,387 - __main__ - INFO - Restarting bot in 10 seconds...
+2025-01-22 00:26:35,390 - __main__ - INFO - Shutting down bot...
+2025-01-22 00:26:35,391 - __main__ - ERROR - Error during shutdown: This Application is not running!
+2025-01-22 00:26:35,449 - __main__ - INFO - Bot started successfully!
+2025-01-22 00:26:35,449 - __main__ - INFO - Monitoring main channel: -1001829128097
+2025-01-22 00:26:35,450 - __main__ - INFO - Replicating to 8 target channels
+2025-01-22 00:26:35,913 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8008634632:AAGcAf45-1KhsJtHSL8FOOGQUlf00UOEtCs/getMe "HTTP/1.1 200 OK"
+2025-01-22 00:26:35,922 - telegram.ext.Application - INFO - Application started
+2025-01-22 00:26:35,925 - __main__ - ERROR - Error occurred: Cannot close a running event loop
+2025-01-22 00:26:35,929 - __main__ - INFO - Shutting down bot...
+2025-01-22 00:26:35,931 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2025-01-22 00:26:35,935 - telegram.ext.Application - INFO - Application.stop() complete
+2025-01-22 00:26:35,940 - __main__ - ERROR - Bot crashed: Cannot close a running event loop
+2025-01-22 00:26:35,942 - __main__ - INFO - Restarting bot in 10 seconds...
+2025-01-22 00:26:35,943 - __main__ - INFO - Shutting down bot...
+2025-01-22 00:26:35,944 - __main__ - ERROR - Error during shutdown: This Application is not running!
+2025-01-22 00:26:35,996 - __main__ - INFO - Bot started successfully!
+2025-01-22 00:26:35,997 - __main__ - INFO - Monitoring main channel: -1001829128097
+2025-01-22 00:26:35,998 - __main__ - INFO - Replicating to 8 target channels
+2025-01-22 00:26:36,477 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8008634632:AAGcAf45-1KhsJtHSL8FOOGQUlf00UOEtCs/getMe "HTTP/1.1 200 OK"
+2025-01-22 00:26:36,482 - telegram.ext.Application - INFO - Application started
+2025-01-22 00:26:36,485 - __main__ - ERROR - Error occurred: Cannot close a running event loop
+2025-01-22 00:26:36,490 - __main__ - INFO - Shutting down bot...
+2025-01-22 00:26:36,492 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2025-01-22 00:26:36,495 - telegram.ext.Application - INFO - Application.stop() complete
+2025-01-22 00:26:36,500 - __main__ - ERROR - Bot crashed: Cannot close a running event loop
+2025-01-22 00:26:36,502 - __main__ - INFO - Restarting bot in 10 seconds...
+2025-01-22 00:26:36,504 - __main__ - INFO - Shutting down bot...
+2025-01-22 00:26:36,505 - __main__ - ERROR - Error during shutdown: This Application is not running!
+2025-01-22 00:26:36,568 - __main__ - INFO - Bot started successfully!
+2025-01-22 00:26:36,569 - __main__ - INFO - Monitoring main channel: -1001829128097
+2025-01-22 00:26:36,570 - __main__ - INFO - Replicating to 8 target channels
+2025-01-22 00:26:37,036 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8008634632:AAGcAf45-1KhsJtHSL8FOOGQUlf00UOEtCs/getMe "HTTP/1.1 200 OK"
+2025-01-22 00:26:37,039 - telegram.ext.Application - INFO - Application started
+2025-01-22 00:26:37,041 - __main__ - ERROR - Error occurred: Cannot close a running event loop
+2025-01-22 00:26:37,043 - __main__ - INFO - Shutting down bot...
+2025-01-22 00:26:37,044 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2025-01-22 00:26:37,046 - telegram.ext.Application - INFO - Application.stop() complete
+2025-01-22 00:26:37,049 - __main__ - ERROR - Bot crashed: Cannot close a running event loop
+2025-01-22 00:26:37,050 - __main__ - INFO - Restarting bot in 10 seconds...
+2025-01-22 00:26:37,051 - __main__ - INFO - Shutting down bot...
+2025-01-22 00:26:37,052 - __main__ - ERROR - Error during shutdown: This Application is not running!
+2025-01-22 00:26:37,107 - __main__ - INFO - Bot started successfully!
+2025-01-22 00:26:37,107 - __main__ - INFO - Monitoring main channel: -1001829128097
+2025-01-22 00:26:37,109 - __main__ - INFO - Replicating to 8 target channels
+2025-01-22 00:26:37,574 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8008634632:AAGcAf45-1KhsJtHSL8FOOGQUlf00UOEtCs/getMe "HTTP/1.1 200 OK"
+2025-01-22 00:26:37,581 - telegram.ext.Application - INFO - Application started
+2025-01-22 00:26:37,582 - __main__ - ERROR - Error occurred: Cannot close a running event loop
+2025-01-22 00:26:37,583 - __main__ - INFO - Shutting down bot...
+2025-01-22 00:26:37,584 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2025-01-22 00:26:37,584 - telegram.ext.Application - INFO - Application.stop() complete
+2025-01-22 00:26:37,586 - __main__ - ERROR - Bot crashed: Cannot close a running event loop
+2025-01-22 00:26:37,587 - __main__ - INFO - Restarting bot in 10 seconds...
+2025-01-22 00:26:37,587 - __main__ - INFO - Shutting down bot...
+2025-01-22 00:26:37,588 - __main__ - ERROR - Error during shutdown: This Application is not running!
+2025-01-22 00:26:37,634 - __main__ - INFO - Bot started successfully!
+2025-01-22 00:26:37,634 - __main__ - INFO - Monitoring main channel: -1001829128097
+2025-01-22 00:26:37,635 - __main__ - INFO - Replicating to 8 target channels
+2025-01-22 00:26:38,108 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8008634632:AAGcAf45-1KhsJtHSL8FOOGQUlf00UOEtCs/getMe "HTTP/1.1 200 OK"
+2025-01-22 00:26:38,110 - telegram.ext.Application - INFO - Application started
+2025-01-22 00:26:38,111 - __main__ - ERROR - Error occurred: Cannot close a running event loop
+2025-01-22 00:26:38,112 - __main__ - INFO - Shutting down bot...
+2025-01-22 00:26:38,112 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2025-01-22 00:26:38,113 - telegram.ext.Application - INFO - Application.stop() complete
+2025-01-22 00:26:38,115 - __main__ - ERROR - Bot crashed: Cannot close a running event loop
+2025-01-22 00:26:38,116 - __main__ - INFO - Restarting bot in 10 seconds...
+2025-01-22 00:26:38,116 - __main__ - INFO - Shutting down bot...
+2025-01-22 00:26:38,117 - __main__ - ERROR - Error during shutdown: This Application is not running!
+2025-01-22 00:26:38,165 - __main__ - INFO - Bot started successfully!
+2025-01-22 00:26:38,166 - __main__ - INFO - Monitoring main channel: -1001829128097
+2025-01-22 00:26:38,167 - __main__ - INFO - Replicating to 8 target channels
+2025-01-22 00:26:38,654 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8008634632:AAGcAf45-1KhsJtHSL8FOOGQUlf00UOEtCs/getMe "HTTP/1.1 200 OK"
+2025-01-22 00:26:38,655 - telegram.ext.Application - INFO - Application started
+2025-01-22 00:26:38,657 - __main__ - ERROR - Error occurred: Cannot close a running event loop
+2025-01-22 00:26:38,658 - __main__ - INFO - Shutting down bot...
+2025-01-22 00:26:38,658 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2025-01-22 00:26:38,659 - telegram.ext.Application - INFO - Application.stop() complete
+2025-01-22 00:26:38,661 - __main__ - ERROR - Bot crashed: Cannot close a running event loop
+2025-01-22 00:26:38,662 - __main__ - INFO - Restarting bot in 10 seconds...
+2025-01-22 00:26:38,663 - __main__ - INFO - Shutting down bot...
+2025-01-22 00:26:38,663 - __main__ - ERROR - Error during shutdown: This Application is not running!
+2025-01-22 00:26:38,713 - __main__ - INFO - Bot started successfully!
+2025-01-22 00:26:38,714 - __main__ - INFO - Monitoring main channel: -1001829128097
+2025-01-22 00:26:38,715 - __main__ - INFO - Replicating to 8 target channels
+2025-01-22 00:26:39,175 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8008634632:AAGcAf45-1KhsJtHSL8FOOGQUlf00UOEtCs/getMe "HTTP/1.1 200 OK"
+2025-01-22 00:26:39,179 - telegram.ext.Application - INFO - Application started
+2025-01-22 00:26:39,180 - __main__ - ERROR - Error occurred: Cannot close a running event loop
+2025-01-22 00:26:39,181 - __main__ - INFO - Shutting down bot...
+2025-01-22 00:26:39,181 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2025-01-22 00:26:39,182 - telegram.ext.Application - INFO - Application.stop() complete
+2025-01-22 00:26:39,184 - __main__ - ERROR - Bot crashed: Cannot close a running event loop
+2025-01-22 00:26:39,185 - __main__ - INFO - Restarting bot in 10 seconds...
+2025-01-22 00:26:39,185 - __main__ - INFO - Shutting down bot...
+2025-01-22 00:26:39,186 - __main__ - ERROR - Error during shutdown: This Application is not running!
+2025-01-22 00:26:39,233 - __main__ - INFO - Bot started successfully!
+2025-01-22 00:26:39,234 - __main__ - INFO - Monitoring main channel: -1001829128097
+2025-01-22 00:26:39,235 - __main__ - INFO - Replicating to 8 target channels
+2025-01-22 00:26:39,675 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8008634632:AAGcAf45-1KhsJtHSL8FOOGQUlf00UOEtCs/getMe "HTTP/1.1 200 OK"
+2025-01-22 00:26:39,677 - telegram.ext.Application - INFO - Application started
+2025-01-22 00:26:39,678 - __main__ - ERROR - Error occurred: Cannot close a running event loop
+2025-01-22 00:26:39,679 - __main__ - INFO - Shutting down bot...
+2025-01-22 00:26:39,679 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2025-01-22 00:26:39,680 - telegram.ext.Application - INFO - Application.stop() complete
+2025-01-22 00:26:39,682 - __main__ - ERROR - Bot crashed: Cannot close a running event loop
+2025-01-22 00:26:39,683 - __main__ - INFO - Restarting bot in 10 seconds...
+2025-01-22 00:26:39,684 - __main__ - INFO - Shutting down bot...
+2025-01-22 00:26:39,685 - __main__ - ERROR - Error during shutdown: This Application is not running!
+2025-01-22 00:26:39,733 - __main__ - INFO - Bot started successfully!
+2025-01-22 00:26:39,734 - __main__ - INFO - Monitoring main channel: -1001829128097
+2025-01-22 00:26:39,735 - __main__ - INFO - Replicating to 8 target channels
+2025-01-22 00:26:40,187 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8008634632:AAGcAf45-1KhsJtHSL8FOOGQUlf00UOEtCs/getMe "HTTP/1.1 200 OK"
+2025-01-22 00:26:40,190 - telegram.ext.Application - INFO - Application started
+2025-01-22 00:26:40,191 - __main__ - ERROR - Error occurred: Cannot close a running event loop
+2025-01-22 00:26:40,192 - __main__ - INFO - Shutting down bot...
+2025-01-22 00:26:40,193 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2025-01-22 00:26:40,194 - telegram.ext.Application - INFO - Application.stop() complete
+2025-01-22 00:26:40,196 - __main__ - ERROR - Bot crashed: Cannot close a running event loop
+2025-01-22 00:26:40,197 - __main__ - INFO - Restarting bot in 10 seconds...
+2025-01-22 00:26:40,198 - __main__ - INFO - Shutting down bot...
+2025-01-22 00:26:40,199 - __main__ - ERROR - Error during shutdown: This Application is not running!
+2025-01-22 00:26:40,244 - __main__ - INFO - Bot started successfully!
+2025-01-22 00:26:40,245 - __main__ - INFO - Monitoring main channel: -1001829128097
+2025-01-22 00:26:40,246 - __main__ - INFO - Replicating to 8 target channels
+2025-01-22 00:26:40,685 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8008634632:AAGcAf45-1KhsJtHSL8FOOGQUlf00UOEtCs/getMe "HTTP/1.1 200 OK"
+2025-01-22 00:26:40,687 - telegram.ext.Application - INFO - Application started
+2025-01-22 00:26:40,688 - __main__ - ERROR - Error occurred: Cannot close a running event loop
+2025-01-22 00:26:40,689 - __main__ - INFO - Shutting down bot...
+2025-01-22 00:26:40,690 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2025-01-22 00:26:40,691 - telegram.ext.Application - INFO - Application.stop() complete
+2025-01-22 00:26:40,693 - __main__ - ERROR - Bot crashed: Cannot close a running event loop
+2025-01-22 00:26:40,694 - __main__ - INFO - Restarting bot in 10 seconds...
+2025-01-22 00:26:40,694 - __main__ - INFO - Shutting down bot...
+2025-01-22 00:26:40,695 - __main__ - ERROR - Error during shutdown: This Application is not running!
+2025-01-22 00:26:40,740 - __main__ - INFO - Bot started successfully!
+2025-01-22 00:26:40,741 - __main__ - INFO - Monitoring main channel: -1001829128097
+2025-01-22 00:26:40,742 - __main__ - INFO - Replicating to 8 target channels
+2025-01-22 00:26:41,215 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8008634632:AAGcAf45-1KhsJtHSL8FOOGQUlf00UOEtCs/getMe "HTTP/1.1 200 OK"
+2025-01-22 00:26:41,220 - telegram.ext.Application - INFO - Application started
+2025-01-22 00:26:41,221 - __main__ - ERROR - Error occurred: Cannot close a running event loop
+2025-01-22 00:26:41,222 - __main__ - INFO - Shutting down bot...
+2025-01-22 00:26:41,223 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2025-01-22 00:26:41,224 - telegram.ext.Application - INFO - Application.stop() complete
+2025-01-22 00:26:41,225 - __main__ - ERROR - Bot crashed: Cannot close a running event loop
+2025-01-22 00:26:41,226 - __main__ - INFO - Restarting bot in 10 seconds...
+2025-01-22 00:26:41,227 - __main__ - INFO - Shutting down bot...
+2025-01-22 00:26:41,227 - __main__ - ERROR - Error during shutdown: This Application is not running!
+2025-01-22 00:26:41,274 - __main__ - INFO - Bot started successfully!
+2025-01-22 00:26:41,275 - __main__ - INFO - Monitoring main channel: -1001829128097
+2025-01-22 00:26:41,276 - __main__ - INFO - Replicating to 8 target channels
+2025-01-22 00:26:41,732 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8008634632:AAGcAf45-1KhsJtHSL8FOOGQUlf00UOEtCs/getMe "HTTP/1.1 200 OK"
+2025-01-22 00:26:41,734 - telegram.ext.Application - INFO - Application started
+2025-01-22 00:26:41,735 - __main__ - ERROR - Error occurred: Cannot close a running event loop
+2025-01-22 00:26:41,735 - __main__ - INFO - Shutting down bot...
+2025-01-22 00:26:41,736 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2025-01-22 00:26:41,737 - telegram.ext.Application - INFO - Application.stop() complete
+2025-01-22 00:26:41,739 - __main__ - ERROR - Bot crashed: Cannot close a running event loop
+2025-01-22 00:26:41,740 - __main__ - INFO - Restarting bot in 10 seconds...
+2025-01-22 00:26:41,740 - __main__ - INFO - Shutting down bot...
+2025-01-22 00:26:41,741 - __main__ - ERROR - Error during shutdown: This Application is not running!
+2025-01-22 00:26:41,788 - __main__ - INFO - Bot started successfully!
+2025-01-22 00:26:41,789 - __main__ - INFO - Monitoring main channel: -1001829128097
+2025-01-22 00:26:41,790 - __main__ - INFO - Replicating to 8 target channels
+2025-01-22 00:26:42,257 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8008634632:AAGcAf45-1KhsJtHSL8FOOGQUlf00UOEtCs/getMe "HTTP/1.1 200 OK"
+2025-01-22 00:26:42,259 - telegram.ext.Application - INFO - Application started
+2025-01-22 00:26:42,259 - __main__ - ERROR - Error occurred: Cannot close a running event loop
+2025-01-22 00:26:42,260 - __main__ - INFO - Shutting down bot...
+2025-01-22 00:26:42,260 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2025-01-22 00:26:42,261 - telegram.ext.Application - INFO - Application.stop() complete
+2025-01-22 00:26:42,263 - __main__ - ERROR - Bot crashed: Cannot close a running event loop
+2025-01-22 00:26:42,264 - __main__ - INFO - Restarting bot in 10 seconds...
+2025-01-22 00:26:42,265 - __main__ - INFO - Shutting down bot...
+2025-01-22 00:26:42,265 - __main__ - ERROR - Error during shutdown: This Application is not running!
+2025-01-22 00:26:42,355 - __main__ - INFO - Bot started successfully!
+2025-01-22 00:26:42,356 - __main__ - INFO - Monitoring main channel: -1001829128097
+2025-01-22 00:26:42,356 - __main__ - INFO - Replicating to 8 target channels
+2025-01-22 00:26:42,829 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8008634632:AAGcAf45-1KhsJtHSL8FOOGQUlf00UOEtCs/getMe "HTTP/1.1 200 OK"
+2025-01-22 00:26:42,831 - telegram.ext.Application - INFO - Application started
+2025-01-22 00:26:42,832 - __main__ - ERROR - Error occurred: Cannot close a running event loop
+2025-01-22 00:26:42,833 - __main__ - INFO - Shutting down bot...
+2025-01-22 00:26:42,833 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2025-01-22 00:26:42,834 - telegram.ext.Application - INFO - Application.stop() complete
+2025-01-22 00:26:42,836 - __main__ - ERROR - Bot crashed: Cannot close a running event loop
+2025-01-22 00:26:42,837 - __main__ - INFO - Restarting bot in 10 seconds...
+2025-01-22 00:26:42,838 - __main__ - INFO - Shutting down bot...
+2025-01-22 00:26:42,838 - __main__ - ERROR - Error during shutdown: This Application is not running!
+2025-01-22 00:26:42,884 - __main__ - INFO - Bot started successfully!
+2025-01-22 00:26:42,884 - __main__ - INFO - Monitoring main channel: -1001829128097
+2025-01-22 00:26:42,885 - __main__ - INFO - Replicating to 8 target channels
+2025-01-22 00:26:43,361 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8008634632:AAGcAf45-1KhsJtHSL8FOOGQUlf00UOEtCs/getMe "HTTP/1.1 200 OK"
+2025-01-22 00:26:43,363 - telegram.ext.Application - INFO - Application started
+2025-01-22 00:26:43,363 - __main__ - ERROR - Error occurred: Cannot close a running event loop
+2025-01-22 00:26:43,364 - __main__ - INFO - Shutting down bot...
+2025-01-22 00:26:43,365 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2025-01-22 00:26:43,365 - telegram.ext.Application - INFO - Application.stop() complete
+2025-01-22 00:26:43,367 - __main__ - ERROR - Bot crashed: Cannot close a running event loop
+2025-01-22 00:26:43,367 - __main__ - INFO - Restarting bot in 10 seconds...
+2025-01-22 00:26:43,368 - __main__ - INFO - Shutting down bot...
+2025-01-22 00:26:43,368 - __main__ - ERROR - Error during shutdown: This Application is not running!
+2025-01-22 00:26:43,441 - __main__ - INFO - Bot started successfully!
+2025-01-22 00:26:43,447 - __main__ - INFO - Monitoring main channel: -1001829128097
+2025-01-22 00:26:43,474 - __main__ - INFO - Replicating to 8 target channels
+2025-01-22 00:26:43,987 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8008634632:AAGcAf45-1KhsJtHSL8FOOGQUlf00UOEtCs/getMe "HTTP/1.1 200 OK"
+2025-01-22 00:26:43,989 - telegram.ext.Application - INFO - Application started
+2025-01-22 00:26:43,990 - __main__ - ERROR - Error occurred: Cannot close a running event loop
+2025-01-22 00:26:43,991 - __main__ - INFO - Shutting down bot...
+2025-01-22 00:26:43,991 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2025-01-22 00:26:43,992 - telegram.ext.Application - INFO - Application.stop() complete
+2025-01-22 00:26:43,993 - __main__ - ERROR - Bot crashed: Cannot close a running event loop
+2025-01-22 00:26:43,994 - __main__ - INFO - Restarting bot in 10 seconds...
+2025-01-22 00:26:43,995 - __main__ - INFO - Shutting down bot...
+2025-01-22 00:26:43,996 - __main__ - ERROR - Error during shutdown: This Application is not running!
+2025-01-22 00:26:44,041 - __main__ - INFO - Bot started successfully!
+2025-01-22 00:26:44,042 - __main__ - INFO - Monitoring main channel: -1001829128097
+2025-01-22 00:26:44,042 - __main__ - INFO - Replicating to 8 target channels
+2025-01-22 00:26:44,494 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8008634632:AAGcAf45-1KhsJtHSL8FOOGQUlf00UOEtCs/getMe "HTTP/1.1 200 OK"
+2025-01-22 00:26:44,497 - telegram.ext.Application - INFO - Application started
+2025-01-22 00:26:44,498 - __main__ - ERROR - Error occurred: Cannot close a running event loop
+2025-01-22 00:26:44,499 - __main__ - INFO - Shutting down bot...
+2025-01-22 00:26:44,499 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2025-01-22 00:26:44,500 - telegram.ext.Application - INFO - Application.stop() complete
+2025-01-22 00:26:44,502 - __main__ - ERROR - Bot crashed: Cannot close a running event loop
+2025-01-22 00:26:44,504 - __main__ - INFO - Restarting bot in 10 seconds...
+2025-01-22 00:26:44,505 - __main__ - INFO - Shutting down bot...
+2025-01-22 00:26:44,506 - __main__ - ERROR - Error during shutdown: This Application is not running!
+2025-01-22 00:26:44,558 - __main__ - INFO - Bot started successfully!
+2025-01-22 00:26:44,559 - __main__ - INFO - Monitoring main channel: -1001829128097
+2025-01-22 00:26:44,559 - __main__ - INFO - Replicating to 8 target channels
+2025-01-22 00:26:45,026 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8008634632:AAGcAf45-1KhsJtHSL8FOOGQUlf00UOEtCs/getMe "HTTP/1.1 200 OK"
+2025-01-22 00:26:45,031 - telegram.ext.Application - INFO - Application started
+2025-01-22 00:26:45,034 - __main__ - ERROR - Error occurred: Cannot close a running event loop
+2025-01-22 00:26:45,037 - __main__ - INFO - Shutting down bot...
+2025-01-22 00:26:45,038 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2025-01-22 00:26:45,041 - telegram.ext.Application - INFO - Application.stop() complete
+2025-01-22 00:26:45,044 - __main__ - ERROR - Bot crashed: Cannot close a running event loop
+2025-01-22 00:26:45,045 - __main__ - INFO - Restarting bot in 10 seconds...
+2025-01-22 00:26:45,046 - __main__ - INFO - Shutting down bot...
+2025-01-22 00:26:45,047 - __main__ - ERROR - Error during shutdown: This Application is not running!
+2025-01-22 00:26:45,124 - __main__ - INFO - Bot started successfully!
+2025-01-22 00:26:45,125 - __main__ - INFO - Monitoring main channel: -1001829128097
+2025-01-22 00:26:45,125 - __main__ - INFO - Replicating to 8 target channels
+2025-01-22 00:26:45,571 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8008634632:AAGcAf45-1KhsJtHSL8FOOGQUlf00UOEtCs/getMe "HTTP/1.1 200 OK"
+2025-01-22 00:26:45,573 - telegram.ext.Application - INFO - Application started
+2025-01-22 00:26:45,574 - __main__ - ERROR - Error occurred: Cannot close a running event loop
+2025-01-22 00:26:45,574 - __main__ - INFO - Shutting down bot...
+2025-01-22 00:26:45,575 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2025-01-22 00:26:45,576 - telegram.ext.Application - INFO - Application.stop() complete
+2025-01-22 00:26:45,577 - __main__ - ERROR - Bot crashed: Cannot close a running event loop
+2025-01-22 00:26:45,578 - __main__ - INFO - Restarting bot in 10 seconds...
+2025-01-22 00:26:45,579 - __main__ - INFO - Shutting down bot...
+2025-01-22 00:26:45,579 - __main__ - ERROR - Error during shutdown: This Application is not running!
+2025-01-22 00:26:45,620 - __main__ - INFO - Bot started successfully!
+2025-01-22 00:26:45,621 - __main__ - INFO - Monitoring main channel: -1001829128097
+2025-01-22 00:26:45,622 - __main__ - INFO - Replicating to 8 target channels
+2025-01-22 00:26:46,080 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8008634632:AAGcAf45-1KhsJtHSL8FOOGQUlf00UOEtCs/getMe "HTTP/1.1 200 OK"
+2025-01-22 00:26:46,082 - telegram.ext.Application - INFO - Application started
+2025-01-22 00:26:46,084 - __main__ - ERROR - Error occurred: Cannot close a running event loop
+2025-01-22 00:26:46,085 - __main__ - INFO - Shutting down bot...
+2025-01-22 00:26:46,085 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2025-01-22 00:26:46,086 - telegram.ext.Application - INFO - Application.stop() complete
+2025-01-22 00:26:46,088 - __main__ - ERROR - Bot crashed: Cannot close a running event loop
+2025-01-22 00:26:46,089 - __main__ - INFO - Restarting bot in 10 seconds...
+2025-01-22 00:26:46,090 - __main__ - INFO - Shutting down bot...
+2025-01-22 00:26:46,090 - __main__ - ERROR - Error during shutdown: This Application is not running!
+2025-01-22 00:26:46,133 - __main__ - INFO - Bot started successfully!
+2025-01-22 00:26:46,134 - __main__ - INFO - Monitoring main channel: -1001829128097
+2025-01-22 00:26:46,135 - __main__ - INFO - Replicating to 8 target channels
+2025-01-22 00:26:46,617 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8008634632:AAGcAf45-1KhsJtHSL8FOOGQUlf00UOEtCs/getMe "HTTP/1.1 200 OK"
+2025-01-22 00:26:46,619 - telegram.ext.Application - INFO - Application started
+2025-01-22 00:26:46,619 - __main__ - ERROR - Error occurred: Cannot close a running event loop
+2025-01-22 00:26:46,620 - __main__ - INFO - Shutting down bot...
+2025-01-22 00:26:46,621 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2025-01-22 00:26:46,622 - telegram.ext.Application - INFO - Application.stop() complete
+2025-01-22 00:26:46,623 - __main__ - ERROR - Bot crashed: Cannot close a running event loop
+2025-01-22 00:26:46,624 - __main__ - INFO - Restarting bot in 10 seconds...
+2025-01-22 00:26:46,625 - __main__ - INFO - Shutting down bot...
+2025-01-22 00:26:46,626 - __main__ - ERROR - Error during shutdown: This Application is not running!
+2025-01-22 00:26:46,669 - __main__ - INFO - Bot started successfully!
+2025-01-22 00:26:46,670 - __main__ - INFO - Monitoring main channel: -1001829128097
+2025-01-22 00:26:46,670 - __main__ - INFO - Replicating to 8 target channels
+2025-01-22 00:26:47,142 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8008634632:AAGcAf45-1KhsJtHSL8FOOGQUlf00UOEtCs/getMe "HTTP/1.1 200 OK"
+2025-01-22 00:26:47,144 - telegram.ext.Application - INFO - Application started
+2025-01-22 00:26:47,145 - __main__ - ERROR - Error occurred: Cannot close a running event loop
+2025-01-22 00:26:47,146 - __main__ - INFO - Shutting down bot...
+2025-01-22 00:26:47,147 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2025-01-22 00:26:47,148 - telegram.ext.Application - INFO - Application.stop() complete
+2025-01-22 00:26:47,149 - __main__ - ERROR - Bot crashed: Cannot close a running event loop
+2025-01-22 00:26:47,150 - __main__ - INFO - Restarting bot in 10 seconds...
+2025-01-22 00:26:47,151 - __main__ - INFO - Shutting down bot...
+2025-01-22 00:26:47,152 - __main__ - ERROR - Error during shutdown: This Application is not running!
+2025-01-22 00:26:47,203 - __main__ - INFO - Bot started successfully!
+2025-01-22 00:26:47,203 - __main__ - INFO - Monitoring main channel: -1001829128097
+2025-01-22 00:26:47,205 - __main__ - INFO - Replicating to 8 target channels
+2025-01-22 00:26:47,684 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8008634632:AAGcAf45-1KhsJtHSL8FOOGQUlf00UOEtCs/getMe "HTTP/1.1 200 OK"
+2025-01-22 00:26:47,688 - telegram.ext.Application - INFO - Application started
+2025-01-22 00:26:47,689 - __main__ - ERROR - Error occurred: Cannot close a running event loop
+2025-01-22 00:26:47,690 - __main__ - INFO - Shutting down bot...
+2025-01-22 00:26:47,690 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2025-01-22 00:26:47,691 - telegram.ext.Application - INFO - Application.stop() complete
+2025-01-22 00:26:47,692 - __main__ - ERROR - Bot crashed: Cannot close a running event loop
+2025-01-22 00:26:47,693 - __main__ - INFO - Restarting bot in 10 seconds...
+2025-01-22 00:26:47,694 - __main__ - INFO - Shutting down bot...
+2025-01-22 00:26:47,694 - __main__ - ERROR - Error during shutdown: This Application is not running!
+2025-01-22 00:26:47,741 - __main__ - INFO - Bot started successfully!
+2025-01-22 00:26:47,741 - __main__ - INFO - Monitoring main channel: -1001829128097
+2025-01-22 00:26:47,742 - __main__ - INFO - Replicating to 8 target channels
+2025-01-22 00:26:48,210 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8008634632:AAGcAf45-1KhsJtHSL8FOOGQUlf00UOEtCs/getMe "HTTP/1.1 200 OK"
+2025-01-22 00:26:48,214 - telegram.ext.Application - INFO - Application started
+2025-01-22 00:26:48,217 - __main__ - ERROR - Error occurred: Cannot close a running event loop
+2025-01-22 00:26:48,219 - __main__ - INFO - Shutting down bot...
+2025-01-22 00:26:48,221 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2025-01-22 00:26:48,223 - telegram.ext.Application - INFO - Application.stop() complete
+2025-01-22 00:26:48,227 - __main__ - ERROR - Bot crashed: Cannot close a running event loop
+2025-01-22 00:26:48,229 - __main__ - INFO - Restarting bot in 10 seconds...
+2025-01-22 00:26:48,232 - __main__ - INFO - Shutting down bot...
+2025-01-22 00:26:48,233 - __main__ - ERROR - Error during shutdown: This Application is not running!
+2025-01-22 00:26:48,302 - __main__ - INFO - Bot started successfully!
+2025-01-22 00:26:48,302 - __main__ - INFO - Monitoring main channel: -1001829128097
+2025-01-22 00:26:48,303 - __main__ - INFO - Replicating to 8 target channels
+2025-01-22 00:26:48,755 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8008634632:AAGcAf45-1KhsJtHSL8FOOGQUlf00UOEtCs/getMe "HTTP/1.1 200 OK"
+2025-01-22 00:26:48,762 - telegram.ext.Application - INFO - Application started
+2025-01-22 00:26:48,767 - __main__ - ERROR - Error occurred: Cannot close a running event loop
+2025-01-22 00:26:48,771 - __main__ - INFO - Shutting down bot...
+2025-01-22 00:26:48,773 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2025-01-22 00:26:48,776 - telegram.ext.Application - INFO - Application.stop() complete
+2025-01-22 00:26:48,781 - __main__ - ERROR - Bot crashed: Cannot close a running event loop
+2025-01-22 00:26:48,785 - __main__ - INFO - Restarting bot in 10 seconds...
+2025-01-22 00:26:48,788 - __main__ - INFO - Shutting down bot...
+2025-01-22 00:26:48,789 - __main__ - ERROR - Error during shutdown: This Application is not running!
+2025-01-22 00:26:48,856 - __main__ - INFO - Bot started successfully!
+2025-01-22 00:26:48,857 - __main__ - INFO - Monitoring main channel: -1001829128097
+2025-01-22 00:26:48,857 - __main__ - INFO - Replicating to 8 target channels
+2025-01-22 00:26:49,331 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8008634632:AAGcAf45-1KhsJtHSL8FOOGQUlf00UOEtCs/getMe "HTTP/1.1 200 OK"
+2025-01-22 00:26:49,339 - telegram.ext.Application - INFO - Application started
+2025-01-22 00:26:49,341 - __main__ - ERROR - Error occurred: Cannot close a running event loop
+2025-01-22 00:26:49,344 - __main__ - INFO - Shutting down bot...
+2025-01-22 00:26:49,346 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2025-01-22 00:26:49,350 - telegram.ext.Application - INFO - Application.stop() complete
+2025-01-22 00:26:49,356 - __main__ - ERROR - Bot crashed: Cannot close a running event loop
+2025-01-22 00:26:49,359 - __main__ - INFO - Restarting bot in 10 seconds...
+2025-01-22 00:26:49,361 - __main__ - INFO - Shutting down bot...
+2025-01-22 00:26:49,364 - __main__ - ERROR - Error during shutdown: This Application is not running!
+2025-01-22 00:26:49,437 - __main__ - INFO - Bot started successfully!
+2025-01-22 00:26:49,438 - __main__ - INFO - Monitoring main channel: -1001829128097
+2025-01-22 00:26:49,438 - __main__ - INFO - Replicating to 8 target channels
+2025-01-22 00:26:49,907 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8008634632:AAGcAf45-1KhsJtHSL8FOOGQUlf00UOEtCs/getMe "HTTP/1.1 200 OK"
+2025-01-22 00:26:49,909 - telegram.ext.Application - INFO - Application started
+2025-01-22 00:26:49,910 - __main__ - ERROR - Error occurred: Cannot close a running event loop
+2025-01-22 00:26:49,910 - __main__ - INFO - Shutting down bot...
+2025-01-22 00:26:49,911 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2025-01-22 00:26:49,911 - telegram.ext.Application - INFO - Application.stop() complete
+2025-01-22 00:26:49,913 - __main__ - ERROR - Bot crashed: Cannot close a running event loop
+2025-01-22 00:26:49,914 - __main__ - INFO - Restarting bot in 10 seconds...
+2025-01-22 00:26:49,914 - __main__ - INFO - Shutting down bot...
+2025-01-22 00:26:49,915 - __main__ - ERROR - Error during shutdown: This Application is not running!
+2025-01-22 00:26:49,965 - __main__ - INFO - Bot started successfully!
+2025-01-22 00:26:49,965 - __main__ - INFO - Monitoring main channel: -1001829128097
+2025-01-22 00:26:49,966 - __main__ - INFO - Replicating to 8 target channels
+2025-01-22 00:26:50,443 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8008634632:AAGcAf45-1KhsJtHSL8FOOGQUlf00UOEtCs/getMe "HTTP/1.1 200 OK"
+2025-01-22 00:26:50,445 - telegram.ext.Application - INFO - Application started
+2025-01-22 00:26:50,446 - __main__ - ERROR - Error occurred: Cannot close a running event loop
+2025-01-22 00:26:50,446 - __main__ - INFO - Shutting down bot...
+2025-01-22 00:26:50,447 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2025-01-22 00:26:50,448 - telegram.ext.Application - INFO - Application.stop() complete
+2025-01-22 00:26:50,449 - __main__ - ERROR - Bot crashed: Cannot close a running event loop
+2025-01-22 00:26:50,450 - __main__ - INFO - Restarting bot in 10 seconds...
+2025-01-22 00:26:50,451 - __main__ - INFO - Shutting down bot...
+2025-01-22 00:26:50,451 - __main__ - ERROR - Error during shutdown: This Application is not running!
+2025-01-22 00:26:50,539 - __main__ - INFO - Bot started successfully!
+2025-01-22 00:26:50,574 - __main__ - INFO - Monitoring main channel: -1001829128097
+2025-01-22 00:26:50,584 - __main__ - INFO - Replicating to 8 target channels
+2025-01-22 00:26:51,085 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8008634632:AAGcAf45-1KhsJtHSL8FOOGQUlf00UOEtCs/getMe "HTTP/1.1 200 OK"
+2025-01-22 00:26:51,087 - telegram.ext.Application - INFO - Application started
+2025-01-22 00:26:51,088 - __main__ - ERROR - Error occurred: Cannot close a running event loop
+2025-01-22 00:26:51,088 - __main__ - INFO - Shutting down bot...
+2025-01-22 00:26:51,089 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2025-01-22 00:26:51,090 - telegram.ext.Application - INFO - Application.stop() complete
+2025-01-22 00:26:51,091 - __main__ - ERROR - Bot crashed: Cannot close a running event loop
+2025-01-22 00:26:51,092 - __main__ - INFO - Restarting bot in 10 seconds...
+2025-01-22 00:26:51,093 - __main__ - INFO - Shutting down bot...
+2025-01-22 00:26:51,093 - __main__ - ERROR - Error during shutdown: This Application is not running!
+2025-01-22 00:26:51,148 - __main__ - INFO - Bot started successfully!
+2025-01-22 00:26:51,149 - __main__ - INFO - Monitoring main channel: -1001829128097
+2025-01-22 00:26:51,149 - __main__ - INFO - Replicating to 8 target channels
+2025-01-22 00:26:51,608 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8008634632:AAGcAf45-1KhsJtHSL8FOOGQUlf00UOEtCs/getMe "HTTP/1.1 200 OK"
+2025-01-22 00:26:51,610 - telegram.ext.Application - INFO - Application started
+2025-01-22 00:26:51,610 - __main__ - ERROR - Error occurred: Cannot close a running event loop
+2025-01-22 00:26:51,611 - __main__ - INFO - Shutting down bot...
+2025-01-22 00:26:51,611 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2025-01-22 00:26:51,614 - telegram.ext.Application - INFO - Application.stop() complete
+2025-01-22 00:26:51,616 - __main__ - ERROR - Bot crashed: Cannot close a running event loop
+2025-01-22 00:26:51,617 - __main__ - INFO - Restarting bot in 10 seconds...
+2025-01-22 00:26:51,617 - __main__ - INFO - Shutting down bot...
+2025-01-22 00:26:51,618 - __main__ - ERROR - Error during shutdown: This Application is not running!
+2025-01-22 00:26:51,666 - __main__ - INFO - Bot started successfully!
+2025-01-22 00:26:51,666 - __main__ - INFO - Monitoring main channel: -1001829128097
+2025-01-22 00:26:51,667 - __main__ - INFO - Replicating to 8 target channels
+2025-01-22 00:26:52,132 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8008634632:AAGcAf45-1KhsJtHSL8FOOGQUlf00UOEtCs/getMe "HTTP/1.1 200 OK"
+2025-01-22 00:26:52,136 - telegram.ext.Application - INFO - Application started
+2025-01-22 00:26:52,137 - __main__ - ERROR - Error occurred: Cannot close a running event loop
+2025-01-22 00:26:52,139 - __main__ - INFO - Shutting down bot...
+2025-01-22 00:26:52,139 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2025-01-22 00:26:52,140 - telegram.ext.Application - INFO - Application.stop() complete
+2025-01-22 00:26:52,142 - __main__ - ERROR - Bot crashed: Cannot close a running event loop
+2025-01-22 00:26:52,143 - __main__ - INFO - Restarting bot in 10 seconds...
+2025-01-22 00:26:52,144 - __main__ - INFO - Shutting down bot...
+2025-01-22 00:26:52,146 - __main__ - ERROR - Error during shutdown: This Application is not running!
+2025-01-22 00:26:52,190 - __main__ - INFO - Bot started successfully!
+2025-01-22 00:26:52,191 - __main__ - INFO - Monitoring main channel: -1001829128097
+2025-01-22 00:26:52,192 - __main__ - INFO - Replicating to 8 target channels
+2025-01-22 00:26:52,517 - __main__ - INFO - Bot stopped by user
+2025-01-22 00:26:52,518 - __main__ - INFO - Shutting down bot...
+2025-01-22 00:26:52,519 - __main__ - ERROR - Error during shutdown: This Application is not running!
+2025-01-22 00:27:12,913 - __main__ - INFO - Bot started successfully!
+2025-01-22 00:27:12,914 - __main__ - INFO - Monitoring main channel: -1001829128097
+2025-01-22 00:27:12,915 - __main__ - INFO - Replicating to 8 target channels
+2025-01-22 00:27:13,415 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8008634632:AAGcAf45-1KhsJtHSL8FOOGQUlf00UOEtCs/getMe "HTTP/1.1 200 OK"
+2025-01-22 00:27:13,417 - telegram.ext.Application - INFO - Application started
+2025-01-22 00:27:13,451 - __main__ - ERROR - Error occurred: Cannot close a running event loop
+2025-01-22 00:27:13,452 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2025-01-22 00:27:13,453 - telegram.ext.Application - INFO - Application.stop() complete

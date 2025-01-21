@@ -1,3 +1,6 @@
+import os
+from pathlib import Path
+
 # Telegram Bot Token
 BOT_TOKEN = '8008634632:AAGcAf45-1KhsJtHSL8FOOGQUlf00UOEtCs'
 
@@ -10,4 +13,12 @@ TARGET_CHANNELS = [
 ]
 
 LOG_FORMAT = '%(asctime)s - %(name)s - %(levelname)s - %(message)s'
-LOG_LEVEL = 'INFO' 
+LOG_LEVEL = 'INFO'
+
+# Paths
+BASE_DIR = Path(__file__).parent
+LOG_DIR = BASE_DIR / 'logs'
+LOG_FILE = LOG_DIR / 'bot.log'
+
+# Create logs directory if it doesn't exist
+os.makedirs(LOG_DIR, exist_ok=True) 
