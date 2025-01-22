@@ -4,7 +4,6 @@ from telegram import Update
 from telegram.ext import Application, MessageHandler as TGMessageHandler, filters
 import config
 from message_handler import MessageHandler
-
 def setup_logging():
     """Configure logging based on platform"""
     logging.basicConfig(
@@ -16,29 +15,24 @@ def setup_logging():
         ]
     )
     return logging.getLogger(__name__)
-
 class TelegramBot:
     def __init__(self):
         self.logger = setup_logging()
         self.handler = MessageHandler(config.MAIN_CHANNEL, config.TARGET_CHANNELS)
-
     def run(self):
         """Run the bot"""
         try:
-            # Initialize application
             app = (
                 Application.builder()
                 .token(config.BOT_TOKEN)
                 .build()
             )
 
-            # Add message handler
             app.add_handler(TGMessageHandler(
                 filters.Chat(config.MAIN_CHANNEL) & filters.ALL,
                 self.handler.replicate_message
             ))
 
-            # Log startup
             self.logger.info("Bot started successfully!")
             self.logger.info(f"Monitoring main channel: {config.MAIN_CHANNEL}")
             self.logger.info(f"Replicating to {len(config.TARGET_CHANNELS)} target channels")

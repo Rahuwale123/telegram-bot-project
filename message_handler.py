@@ -1,7 +1,7 @@
 import logging
-from telegram import Update
+from telegram import Update, MessageEntity
 from telegram.ext import ContextTypes
-from typing import Dict, Optional
+from typing import Dict, Optional, List
 
 class MessageHandler:
     def __init__(self, main_channel: int, target_channels: list[int]):
@@ -41,40 +41,50 @@ class MessageHandler:
         except Exception as e:
             self.logger.error(f"Error processing message: {str(e)}")
 
+    def _get_entities_and_text(self, message) -> tuple[str, List[MessageEntity]]:
+        """Extract text and entities while preserving formatting"""
+        text = message.text or message.caption or ""
+        entities = message.entities or message.caption_entities or []
+        return text, entities
+
     async def _send_message(self, context: ContextTypes.DEFAULT_TYPE, 
                           channel: int, message: Update.message, 
                           reply_to_id: Optional[int] = None):
         """Helper method to send messages based on type"""
         try:
+            # Get text and entities
+            text, entities = self._get_entities_and_text(message)
+            
             if message.text:
                 return await context.bot.send_message(
                     chat_id=channel,
-                    text=message.text,
-                    entities=message.entities,
-                    reply_to_message_id=reply_to_id
+                    text=text,
+                    entities=entities,
+                    reply_to_message_id=reply_to_id,
+                    disable_web_page_preview=False  # Enable link previews
                 )
             elif message.photo:
                 return await context.bot.send_photo(
                     chat_id=channel,
                     photo=message.photo[-1].file_id,
-                    caption=message.caption,
-                    caption_entities=message.caption_entities,
+                    caption=text,
+                    caption_entities=entities,
                     reply_to_message_id=reply_to_id
                 )
             elif message.video:
                 return await context.bot.send_video(
                     chat_id=channel,
                     video=message.video.file_id,
-                    caption=message.caption,
-                    caption_entities=message.caption_entities,
+                    caption=text,
+                    caption_entities=entities,
                     reply_to_message_id=reply_to_id
                 )
             elif message.document:
                 return await context.bot.send_document(
                     chat_id=channel,
                     document=message.document.file_id,
-                    caption=message.caption,
-                    caption_entities=message.caption_entities,
+                    caption=text,
+                    caption_entities=entities,
                     reply_to_message_id=reply_to_id
                 )
             
@@ -87,8 +97,31 @@ class MessageHandler:
         try:
             message = update.channel_post
             chat = await context.bot.get_chat(message.chat_id)
-            reply_text = f"💬 Reply from {chat.title}:\n{message.text}"
-            await context.bot.send_message(self.main_channel, reply_text)
+            
+            # Get text and entities from reply
+            text, entities = self._get_entities_and_text(message)
+            
+            # Format reply with preserved formatting
+            reply_text = f"💬 Reply from {chat.title}:\n{text}"
+            
+            # Adjust entity offsets to account for the prefix
+            prefix_length = len(f"💬 Reply from {chat.title}:\n")
+            adjusted_entities = []
+            for entity in entities:
+                new_entity = MessageEntity(
+                    type=entity.type,
+                    offset=entity.offset + prefix_length,
+                    length=entity.length,
+                    url=getattr(entity, 'url', None)
+                )
+                adjusted_entities.append(new_entity)
+            
+            await context.bot.send_message(
+                self.main_channel,
+                text=reply_text,
+                entities=adjusted_entities,
+                disable_web_page_preview=False  # Enable link previews
+            )
             self.logger.info(f"Reply synced from {chat.title}")
         except Exception as e:
             self.logger.error(f"Error syncing reply: {str(e)}") 
